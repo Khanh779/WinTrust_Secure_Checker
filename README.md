@@ -1,7 +1,7 @@
 # WinTrust_Secure_Checker
 
 ## Description
-"WinTrust Secure Checker" is a tool designed to check the safety of files on the Windows operating system by using the WinVerifyTrust function from the WinTrust API. This project is built on the .NET 6.0 framework and has the ability to verify digital signatures on files to ensure their integrity and origin. 
+"WinTrust Secure Checker" is a tool designed to check the safety of files on the Windows operating system by using the WinVerifyTrust function from the WinTrust API. This project is built on the .NET 6.0 framework and has the ability to verify digital signatures on files to ensure their integrity and origin. <br>
 To learn more about WinVerifyTrust and how it works, you can refer to the [Windows API Documentation](https://learn.microsoft.com/en-us/windows/win32/api/wintrust/nf-wintrust-winverifytrust).
 
 ## Key Features
@@ -16,7 +16,7 @@ To install and run "WinTrust Secure Checker", you need:
 2. Visual Studio and supporting tools to run the program.
 
 ## Mô tả
-"WinTrust Secure Checker" là một công cụ được thiết kế để kiểm tra độ an toàn của các tệp tin trên hệ điều hành Windows bằng cách sử dụng hàm WinVerifyTrust từ WinTrust API. Dự án này được xây dựng trên nền tảng .NET 6.0 và có khả năng kiểm tra chữ ký số của các tệp tin để xác định tính toàn vẹn và nguồn gốc của chúng.
+"WinTrust Secure Checker" là một công cụ được thiết kế để kiểm tra độ an toàn của các tệp tin trên hệ điều hành Windows bằng cách sử dụng hàm WinVerifyTrust từ WinTrust API. Dự án này được xây dựng trên nền tảng .NET 6.0 và có khả năng kiểm tra chữ ký số của các tệp tin để xác định tính toàn vẹn và nguồn gốc của chúng. <br>
 Để hiểu thêm về WinVerifyTrust và cách thức hoạt động của nó, bạn có thể xem tài liệu tham khảo tại [Windows API Documentation](https://learn.microsoft.com/en-us/windows/win32/api/wintrust/nf-wintrust-winverifytrust).
 
 
